@@ -8227,7 +8227,7 @@ h6 {
 .rtl6{
 	direction: rtl;
 	position: relative;
-	left:465px;
+	left:479px;
 	top:2px;
 	text-overflow: ellipsis;
 	
@@ -8236,7 +8236,7 @@ h6 {
 .rtl7{
 	direction: rtl;
 	position: relative;
-	left:420px;
+	left:428px;
 	top:2px;
 	text-overflow: ellipsis;
 	
@@ -8245,7 +8245,7 @@ h6 {
 .rtl8{
 	direction: rtl;
 	position: relative;
-	left:467px;
+	left:460px;
 	top:2px;
 	text-overflow: ellipsis;
 	
@@ -8254,7 +8254,7 @@ h6 {
 .rtl9{
 	direction: rtl;
 	position: relative;
-	left:490px;
+	left:458px;
 	top:2px;
 	text-overflow: ellipsis;
 	
@@ -8430,8 +8430,13 @@ h6 {
 	text-overflow: ellipsis;
 	
 }
-.black{
-	color: black;
+.rtl31{
+	direction: rtl;
+	position: relative;
+	left:435px;
+	top:2px;
+	text-overflow: ellipsis;
+	
 }
 
 /*# sourceMappingURL=style.css.map */
